@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.12",
+        "nodemailer": "^6.8.0",
+        "puppeteer": "^19.4.0",
+        "request": "^2.88.2",
+        "request-promise": "^4.2.6"
+    }
+}
